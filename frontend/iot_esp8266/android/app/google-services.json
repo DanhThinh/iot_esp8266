@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529002495986",
+    "firebase_url": "https://iot-esp8266-d1fde-default-rtdb.firebaseio.com",
+    "project_id": "iot-esp8266-d1fde",
+    "storage_bucket": "iot-esp8266-d1fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529002495986:android:9513323632e6c7eb3ab56b",
+        "android_client_info": {
+          "package_name": "com.example.iot_esp8266"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529002495986-aepge0nnh48b4a9164ee0maov8f892mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3omZ05ZDQdX45ahWrjI3MkmhMhYFn28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529002495986-aepge0nnh48b4a9164ee0maov8f892mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
